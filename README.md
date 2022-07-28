@@ -1,7 +1,7 @@
 <h1 align="center">Salam 👋, I'm Abdelraouf</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-- 💬 Ask me about **Software Engineering & Architecture, clean code, ...**
+- 💬 Ask me about **Software Engineering & Architecture, Clean Code, ...**
 
 - 📫 How to reach me **allouiabdelraouf@gmail.com**
 
