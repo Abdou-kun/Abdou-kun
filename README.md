@@ -13,7 +13,7 @@
   <a href="https://fb.com/alloui.abdelraouf" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alloui.abdelraouf" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/alloui_abdelraouf" target="blank">
+  <a href="https://instagram.com/alloui_abderraouf" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alloui_abdelraouf" height="30" width="40" />
   </a>
 </p>
