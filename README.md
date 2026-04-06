@@ -5,10 +5,6 @@
 
 - 📫 How to reach me **allouiabdelraouf@gmail.com**
 
-- 📄 Know about my experiences [https://allouibdelraouf.tech](https://allouibdelraouf.tech)
-
-- ⚡ Fun fact **I love potatoes**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/abdelraouf-alloui-27938319a" target="blank">
