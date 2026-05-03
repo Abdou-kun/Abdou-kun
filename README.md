@@ -1,8 +1,8 @@
 <div align="center">
 
-# Abdelraouf Alloui
+# Abderraouf Alloui
 
-### Software Engineering Student • Full-Stack Developer • Problem Solver
+### Software Engineer • Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+scalable+digital+solutions;Passionate+about+Software+Architecture;Clean+Code+%7C+Modern+Web+Development;Always+learning%2C+always+creating" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a software engineering student passionate about designing and building modern, scalable, and user-centric applications. I enjoy transforming ideas into reliable digital products through clean architecture, elegant code, and thoughtful user experiences.
+I'm a software engineer passionate about designing and building modern, scalable, and user-centric applications. I enjoy transforming ideas into reliable digital products through clean architecture, elegant code, and thoughtful user experiences.
 
 * 🔭 Currently focused on **Full-Stack Web Development** and **Software Architecture**
 * 🌱 Continuously learning **system design, cloud technologies, and advanced engineering practices**
