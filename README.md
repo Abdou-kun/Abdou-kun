@@ -25,7 +25,7 @@ I'm a software engineer passionate about designing and building modern, scalable
 ## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdelraouf-alloui-27938319a" target="_blank">
+  <a href="https://linkedin.com/in/abderraouf-alloui" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/alloui.abdelraouf" target="_blank">
